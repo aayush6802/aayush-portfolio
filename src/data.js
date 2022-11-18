@@ -24,6 +24,7 @@ export const workData = [
     description: "One stop for all latest crypto tracking and crpto news!",
     link: "https://coinbash.netlify.app/",
     image: coinbash,
+    gitLink: "https://github.com/aayush6802/crypto-app",
   },
   {
     name: "To-Do-App",
